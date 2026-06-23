@@ -25,3 +25,20 @@
     </header>
     <script></script>
 </body>
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: monospace;
+    margin:0;
+    font-size: 16px;
+    background-color:#4f8b69;
+}
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding: 0;
+    text-decoration: none;
+}
